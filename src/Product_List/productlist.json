@@ -1,0 +1,72 @@
+ {"Products":[
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Earbuds",
+        "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+        "price": 59.99,
+        "image_link": "https://example.com/earbuds.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone Gimbal Stabilizer",
+        "description": "3-axis gimbal stabilizer for smartphones, perfect for smooth video recording.",
+        "price": 129.99,
+        "image_link": "https://example.com/gimbal.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Portable Bluetooth Speaker",
+        "description": "Compact, waterproof Bluetooth speaker with rich sound and long battery life.",
+        "price": 79.99,
+        "image_link": "https://example.com/speaker.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Wireless Charging Pad",
+        "description": "Fast-charging wireless pad compatible with various smartphones.",
+        "price": 29.99,
+        "image_link": "https://example.com/charging_pad.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Fitness Tracker Watch",
+        "description": "Water-resistant fitness tracker with heart rate monitor and GPS.",
+        "price": 89.99,
+        "image_link": "https://example.com/fitness_tracker.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Electric Coffee Grinder",
+        "description": "High-performance coffee grinder for precision grinding at home.",
+        "price": 49.99,
+        "image_link": "https://example.com/coffee_grinder.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Foldable Laptop Stand",
+        "description": "Portable and adjustable laptop stand for ergonomic usage.",
+        "price": 39.99,
+        "image_link": "https://example.com/laptop_stand.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Security Camera System",
+        "description": "HD security camera system with night vision and motion detection.",
+        "price": 199.99,
+        "image_link": "https://example.com/security_camera.jpg"
+    },
+    {
+        "id": 9,
+        "name": "External Solid State Drive (SSD)",
+        "description": "High-speed and durable external SSD for fast data transfer.",
+        "price": 149.99,
+        "image_link": "https://example.com/external_ssd.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Robot Vacuum Cleaner",
+        "description": "Smart robot vacuum with mapping technology and automatic charging.",
+        "price": 299.99,
+        "image_link": "https://example.com/robot_vacuum.jpg"
+    }
+]}
